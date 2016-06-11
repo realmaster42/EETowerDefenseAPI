@@ -1,0 +1,5 @@
+C:\Users\MarcoAntonio\documents\visual studio 2013\Projects\EETowerDefenseAPI\EETowerDefenseAPI\bin\Debug\EETowerDefenseAPI.dll
+C:\Users\MarcoAntonio\documents\visual studio 2013\Projects\EETowerDefenseAPI\EETowerDefenseAPI\bin\Debug\EETowerDefenseAPI.pdb
+C:\Users\MarcoAntonio\documents\visual studio 2013\Projects\EETowerDefenseAPI\EETowerDefenseAPI\obj\Debug\EETowerDefenseAPI.csprojResolveAssemblyReference.cache
+C:\Users\MarcoAntonio\documents\visual studio 2013\Projects\EETowerDefenseAPI\EETowerDefenseAPI\obj\Debug\EETowerDefenseAPI.dll
+C:\Users\MarcoAntonio\documents\visual studio 2013\Projects\EETowerDefenseAPI\EETowerDefenseAPI\obj\Debug\EETowerDefenseAPI.pdb
